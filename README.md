@@ -6,4 +6,4 @@ Features:
 - Player controls including strafing
 - 3d level design
 
-![Battle Royale GIF](https://media.giphy.com/media/pUWiaVIT6S0PCzrXpY/giphy.gif)
+![Battle Royale GIF](BattleRoyaleGif.gif)
